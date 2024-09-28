@@ -9,6 +9,9 @@ public class TipoDeDados {
         double salario = 1000.25;
 
 
+        char sexo = 'M';
+        boolean doadorOrgao = false; // false ou true;
+
         System.out.println(idade);
     }
 }
