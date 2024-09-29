@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TreinoJava",
+            "request": "launch",
+            "mainClass": "TreinoJava",
+            "projectName": "java-terminal_12e31c8c"
+        },
+        {
+            "type": "java",
+            "name": "ScannerTeste",
+            "request": "launch",
+            "mainClass": "ScannerTeste",
+            "projectName": "java-terminal_12e31c8c"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
