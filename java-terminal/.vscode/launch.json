@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MediaAluno",
+            "request": "launch",
+            "mainClass": "MediaAluno",
+            "projectName": "java-terminal_12e31c8c"
+        },
+        {
+            "type": "java",
             "name": "TreinoJava",
             "request": "launch",
             "mainClass": "TreinoJava",
