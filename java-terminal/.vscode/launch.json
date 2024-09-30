@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ternario",
+            "request": "launch",
+            "mainClass": "Ternario",
+            "projectName": "java-terminal_12e31c8c"
+        },
+        {
+            "type": "java",
             "name": "MediaAluno",
             "request": "launch",
             "mainClass": "MediaAluno",
